@@ -1,0 +1,10 @@
+C:\Rajendra\C#\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Rajendra\C#\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Rajendra\C#\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Rajendra\C#\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
